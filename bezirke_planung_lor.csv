@@ -1,0 +1,448 @@
+bezirk_key;bezirk_name;prognose_key;prognose_name;bezirksregion_key;bezirksregion_name;kiez_key;kiez_name
+1;Mitte;101;Zentrum;10111;Tiergarten Süd;1011101;Stülerstraße
+1;Mitte;101;Zentrum;10111;Tiergarten Süd;1011102;Großer Tiergarten
+1;Mitte;101;Zentrum;10111;Tiergarten Süd;1011103;Lützowstraße
+1;Mitte;101;Zentrum;10111;Tiergarten Süd;1011104;Körnerstraße
+1;Mitte;101;Zentrum;10111;Tiergarten Süd;1011105;Nördlicher Landwehrkanal
+1;Mitte;101;Zentrum;10112;Regierungsviertel;1011201;Wilhelmstraße
+1;Mitte;101;Zentrum;10112;Regierungsviertel;1011202;Unter den Linden Nord
+1;Mitte;101;Zentrum;10112;Regierungsviertel;1011203;Unter den Linden Süd
+1;Mitte;101;Zentrum;10112;Regierungsviertel;1011204;Leipziger Straße
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011301;Charitéviertel
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011302;Oranienburger Straße
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011303;Alexanderplatzviertel
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011304;Karl-Marx-Allee
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011305;Heine-Viertel West
+1;Mitte;101;Zentrum;10113;Alexanderplatz;1011306;Heine-Viertel Ost
+1;Mitte;101;Zentrum;10114;Brunnenstraße Süd;1011401;Invalidenstraße
+1;Mitte;101;Zentrum;10114;Brunnenstraße Süd;1011402;Arkonaplatz
+1;Mitte;102;Moabit;10221;Moabit West;1022101;Huttenkiez
+1;Mitte;102;Moabit;10221;Moabit West;1022102;Beusselkiez
+1;Mitte;102;Moabit;10221;Moabit West;1022103;Westhafen
+1;Mitte;102;Moabit;10221;Moabit West;1022104;Emdener Straße
+1;Mitte;102;Moabit;10221;Moabit West;1022105;Zwinglistraße
+1;Mitte;102;Moabit;10221;Moabit West;1022106;Elberfelder Straße
+1;Mitte;102;Moabit;10222;Moabit Ost;1022201;Stephankiez
+1;Mitte;102;Moabit;10222;Moabit Ost;1022202;Heidestraße
+1;Mitte;102;Moabit;10222;Moabit Ost;1022203;Lübecker Straße
+1;Mitte;102;Moabit;10222;Moabit Ost;1022204;Thomasiusstraße
+1;Mitte;102;Moabit;10222;Moabit Ost;1022205;Zillesiedlung
+1;Mitte;102;Moabit;10222;Moabit Ost;1022206;Lüneburger Straße
+1;Mitte;102;Moabit;10222;Moabit Ost;1022207;Hansaviertel
+1;Mitte;103;Gesundbrunnen;10331;Osloer Straße;1033101;Soldiner Straße
+1;Mitte;103;Gesundbrunnen;10331;Osloer Straße;1033102;Gesundbrunnen
+1;Mitte;103;Gesundbrunnen;10332;Brunnenstraße Nord;1033201;Brunnenstraße
+1;Mitte;103;Gesundbrunnen;10332;Brunnenstraße Nord;1033202;Humboldthain Süd
+1;Mitte;103;Gesundbrunnen;10332;Brunnenstraße Nord;1033203;Humboldthain Nordwest
+1;Mitte;104;Wedding;10441;Parkviertel;1044101;Rehberge
+1;Mitte;104;Wedding;10441;Parkviertel;1044102;Schillerpark
+1;Mitte;104;Wedding;10441;Parkviertel;1044103;Westliche Müllerstraße
+1;Mitte;104;Wedding;10442;Wedding Zentrum;1044201;Reinickendorfer Straße
+1;Mitte;104;Wedding;10442;Wedding Zentrum;1044202;Sparrplatz
+1;Mitte;104;Wedding;10442;Wedding Zentrum;1044203;Leopoldplatz
+2;Friedrichshain-Kreuzberg;201;Kreuzberg Nord;20101;Südliche Friedrichstadt;2010101;Askanischer Platz
+2;Friedrichshain-Kreuzberg;201;Kreuzberg Nord;20101;Südliche Friedrichstadt;2010102;Mehringplatz
+2;Friedrichshain-Kreuzberg;201;Kreuzberg Nord;20101;Südliche Friedrichstadt;2010103;Moritzplatz
+2;Friedrichshain-Kreuzberg;201;Kreuzberg Nord;20101;Südliche Friedrichstadt;2010104;Wassertorplatz
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020201;Gleisdreieck/Entwicklungsgebiet
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020202;Rathaus Yorckstraße
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020203;Viktoriapark
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020204;Urbanstraße
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020205;Chamissokiez
+2;Friedrichshain-Kreuzberg;202;Kreuzberg Süd;20202;Tempelhofer Vorstadt;2020206;Graefekiez
+2;Friedrichshain-Kreuzberg;203;Kreuzberg Ost;20303;Nördliche Luisenstadt;2030301;Oranienplatz
+2;Friedrichshain-Kreuzberg;203;Kreuzberg Ost;20303;Nördliche Luisenstadt;2030302;Lausitzer Platz
+2;Friedrichshain-Kreuzberg;203;Kreuzberg Ost;20304;Südliche Luisenstadt;2030401;Reichenberger Straße
+2;Friedrichshain-Kreuzberg;203;Kreuzberg Ost;20304;Südliche Luisenstadt;2030402;Wrangelkiez
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20405;Karl-Marx-Allee Nord;2040501;Barnimkiez
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20405;Karl-Marx-Allee Nord;2040502;Friedenstraße
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20405;Karl-Marx-Allee Nord;2040503;Richard-Sorge-Viertel
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20407;Karl-Marx-Allee Süd;2040701;Andreasviertel
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20407;Karl-Marx-Allee Süd;2040702;Weberwiese
+2;Friedrichshain-Kreuzberg;204;Friedrichshain West;20407;Karl-Marx-Allee Süd;2040703;Wriezener Bahnhof/Entwicklungsgebiet
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20506;Frankfurter Allee Nord;2050601;Hausburgviertel
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20506;Frankfurter Allee Nord;2050602;Samariterviertel
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20508;Frankfurter Allee Süd FK;2050801;Traveplatz
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20508;Frankfurter Allee Süd FK;2050802;Boxhagener Platz
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20508;Frankfurter Allee Süd FK;2050803;Stralauer Kiez
+2;Friedrichshain-Kreuzberg;205;Friedrichshain Ost;20508;Frankfurter Allee Süd FK;2050804;Stralauer Halbinsel
+3;Pankow;301;Buch;30101;Buch;3010101;Bucher Forst
+3;Pankow;301;Buch;30101;Buch;3010102;Buch
+3;Pankow;301;Buch;30101;Buch;3010104;Lietzengraben
+3;Pankow;302;Nördliches Pankow;30202;Blankenfelde/Niederschönhausen;3020203;Blankenfelde
+3;Pankow;302;Nördliches Pankow;30202;Blankenfelde/Niederschönhausen;3020209;Niederschönhausen
+3;Pankow;302;Nördliches Pankow;30202;Blankenfelde/Niederschönhausen;3020210;Herthaplatz
+3;Pankow;302;Nördliches Pankow;30203;Buchholz;3020307;Buchholz
+3;Pankow;303;Nördliches Weißensee;30304;Karow;3030405;Karow Nord
+3;Pankow;303;Nördliches Weißensee;30304;Karow;3030406;Alt-Karow
+3;Pankow;303;Nördliches Weißensee;30307;Blankenburg/Heinersdorf/Märchenland;3030711;Blankenburg
+3;Pankow;303;Nördliches Weißensee;30307;Blankenburg/Heinersdorf/Märchenland;3030715;Heinersdorf
+3;Pankow;303;Nördliches Weißensee;30307;Blankenburg/Heinersdorf/Märchenland;3030716;Märchenland
+3;Pankow;304;Südliches Pankow;30405;Schönholz/Wilhelmsruh/Rosenthal;3040508;Rosenthal
+3;Pankow;304;Südliches Pankow;30405;Schönholz/Wilhelmsruh/Rosenthal;3040512;Wilhelmsruh
+3;Pankow;304;Südliches Pankow;30405;Schönholz/Wilhelmsruh/Rosenthal;3040513;Schönholz
+3;Pankow;304;Südliches Pankow;30406;Pankow Zentrum;3040614;Pankow Zentrum
+3;Pankow;304;Südliches Pankow;30408;Pankow Süd;3040818;Pankow Süd
+3;Pankow;305;Südliches Weißensee;30509;Weißensee;3050919;Gustav-Adolf-Straße
+3;Pankow;305;Südliches Weißensee;30509;Weißensee;3050920;Weißer See
+3;Pankow;305;Südliches Weißensee;30509;Weißensee;3050923;Weißenseer Spitze
+3;Pankow;305;Südliches Weißensee;30509;Weißensee;3050924;Behaimstraße
+3;Pankow;305;Südliches Weißensee;30509;Weißensee;3050925;Komponistenviertel Weißensee
+3;Pankow;305;Südliches Weißensee;30510;Weißensee Ost;3051017;Rennbahnstraße
+3;Pankow;305;Südliches Weißensee;30510;Weißensee Ost;3051021;Buschallee
+3;Pankow;305;Südliches Weißensee;30510;Weißensee Ost;3051022;Hansastraße
+3;Pankow;306;Nördlicher Prenzlauer Berg;30611;Prenzlauer Berg Nordwest;3061126;Arnimplatz
+3;Pankow;306;Nördlicher Prenzlauer Berg;30611;Prenzlauer Berg Nordwest;3061131;Falkplatz
+3;Pankow;306;Nördlicher Prenzlauer Berg;30612;Prenzlauer Berg Nord;3061227;Humannplatz
+3;Pankow;306;Nördlicher Prenzlauer Berg;30612;Prenzlauer Berg Nord;3061228;Erich-Weinert-Straße
+3;Pankow;306;Nördlicher Prenzlauer Berg;30613;Helmholtzplatz;3061332;Helmholtzplatz
+3;Pankow;306;Nördlicher Prenzlauer Berg;30614;Prenzlauer Berg Ost;3061429;Greifswalder Straße
+3;Pankow;306;Nördlicher Prenzlauer Berg;30614;Prenzlauer Berg Ost;3061430;Volkspark Prenzlauer Berg
+3;Pankow;306;Nördlicher Prenzlauer Berg;30614;Prenzlauer Berg Ost;3061434;Anton-Saefkow-Park
+3;Pankow;306;Nördlicher Prenzlauer Berg;30614;Prenzlauer Berg Ost;3061435;Conrad-Blenkle-Straße
+3;Pankow;306;Nördlicher Prenzlauer Berg;30614;Prenzlauer Berg Ost;3061441;Eldenaer Straße
+3;Pankow;307;Südlicher Prenzlauer Berg;30715;Prenzlauer Berg Südwest;3071536;Teutoburger Platz
+3;Pankow;307;Südlicher Prenzlauer Berg;30715;Prenzlauer Berg Südwest;3071537;Kollwitzplatz
+3;Pankow;307;Südlicher Prenzlauer Berg;30716;Prenzlauer Berg Süd;3071633;Thälmannpark
+3;Pankow;307;Südlicher Prenzlauer Berg;30716;Prenzlauer Berg Süd;3071638;Winsstraße
+3;Pankow;307;Südlicher Prenzlauer Berg;30716;Prenzlauer Berg Süd;3071639;Bötzowstraße
+4;Charlottenburg-Wilmersdorf;401;CW 1;40101;Charlottenburg Nord;4010101;Jungfernheide
+4;Charlottenburg-Wilmersdorf;401;CW 1;40101;Charlottenburg Nord;4010102;Plötzensee
+4;Charlottenburg-Wilmersdorf;401;CW 1;40101;Charlottenburg Nord;4010103;Paul-Hertz-Siedlung
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020204;Olympiagelände
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020205;Siedlung Ruhleben
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020206;Angerburger Allee
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020207;Flatowallee
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020208;Kranzallee
+4;Charlottenburg-Wilmersdorf;402;CW 2;40202;Heerstraße;4020209;Eichkamp
+4;Charlottenburg-Wilmersdorf;402;CW 2;40203;Westend;4020310;Park Ruhwald
+4;Charlottenburg-Wilmersdorf;402;CW 2;40203;Westend;4020311;Reichsstraße
+4;Charlottenburg-Wilmersdorf;402;CW 2;40203;Westend;4020312;Branitzer Platz
+4;Charlottenburg-Wilmersdorf;402;CW 2;40203;Westend;4020313;Königin-Elisabeth-Straße
+4;Charlottenburg-Wilmersdorf;402;CW 2;40203;Westend;4020314;Messegelände
+4;Charlottenburg-Wilmersdorf;403;CW 3;40304;Schloß Charlottenburg;4030415;Schloßgarten
+4;Charlottenburg-Wilmersdorf;403;CW 3;40304;Schloß Charlottenburg;4030416;Klausenerplatz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40304;Schloß Charlottenburg;4030417;Schloßstraße
+4;Charlottenburg-Wilmersdorf;403;CW 3;40305;Mierendorffplatz;4030518;Tegeler Weg
+4;Charlottenburg-Wilmersdorf;403;CW 3;40305;Mierendorffplatz;4030519;Kaiserin-Augusta-Allee
+4;Charlottenburg-Wilmersdorf;403;CW 3;40306;Otto-Suhr-Allee;4030620;Alt-Lietzow
+4;Charlottenburg-Wilmersdorf;403;CW 3;40306;Otto-Suhr-Allee;4030621;Spreestadt
+4;Charlottenburg-Wilmersdorf;403;CW 3;40306;Otto-Suhr-Allee;4030622;Richard-Wagner-Straße
+4;Charlottenburg-Wilmersdorf;403;CW 3;40306;Otto-Suhr-Allee;4030623;Ernst-Reuter-Platz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40307;Neue Kantstraße;4030724;Lietzensee
+4;Charlottenburg-Wilmersdorf;403;CW 3;40307;Neue Kantstraße;4030725;Amtsgerichtsplatz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40307;Neue Kantstraße;4030726;Droysenstraße
+4;Charlottenburg-Wilmersdorf;403;CW 3;40308;Kantstraße;4030827;Karl-August-Platz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40308;Kantstraße;4030828;Savignyplatz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40309;Kurfürstendamm;4030929;Hindemithplatz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40309;Kurfürstendamm;4030930;George-Grosz-Platz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40309;Kurfürstendamm;4030931;Breitscheidplatz
+4;Charlottenburg-Wilmersdorf;403;CW 3;40310;Halensee;4031032;Halensee
+4;Charlottenburg-Wilmersdorf;404;CW 4;40411;Grunewald;4041133;Güterbahnhof Grunewald
+4;Charlottenburg-Wilmersdorf;404;CW 4;40411;Grunewald;4041134;Bismarckallee
+4;Charlottenburg-Wilmersdorf;404;CW 4;40411;Grunewald;4041135;Hundekehle
+4;Charlottenburg-Wilmersdorf;404;CW 4;40411;Grunewald;4041136;Hagenplatz
+4;Charlottenburg-Wilmersdorf;404;CW 4;40411;Grunewald;4041137;Flinsberger Platz
+4;Charlottenburg-Wilmersdorf;404;CW 4;40412;Schmargendorf;4041238;Kissinger Straße
+4;Charlottenburg-Wilmersdorf;404;CW 4;40412;Schmargendorf;4041239;Stadion Wilmersdorf
+4;Charlottenburg-Wilmersdorf;404;CW 4;40412;Schmargendorf;4041240;Messelpark
+4;Charlottenburg-Wilmersdorf;404;CW 4;40412;Schmargendorf;4041241;Breite Straße
+4;Charlottenburg-Wilmersdorf;404;CW 4;40413;Wiesbadener Straße;4041342;Schlangenbader Straße
+4;Charlottenburg-Wilmersdorf;404;CW 4;40413;Wiesbadener Straße;4041343;Binger Straße
+4;Charlottenburg-Wilmersdorf;404;CW 4;40413;Wiesbadener Straße;4041344;Rüdesheimer Platz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40514;Düsseldorfer Straße;4051445;Eisenzahnstraße
+4;Charlottenburg-Wilmersdorf;405;CW 5;40514;Düsseldorfer Straße;4051446;Preußenpark
+4;Charlottenburg-Wilmersdorf;405;CW 5;40514;Düsseldorfer Straße;4051447;Ludwigkirchplatz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40514;Düsseldorfer Straße;4051448;Schaperstraße
+4;Charlottenburg-Wilmersdorf;405;CW 5;40515;Barstraße;4051549;Rathaus Wilmersdorf
+4;Charlottenburg-Wilmersdorf;405;CW 5;40515;Barstraße;4051550;Leon-Jessel-Platz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40515;Barstraße;4051551;Brabanter Platz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40516;Volkspark Wilmersdorf;4051652;Nikolsburger Platz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40516;Volkspark Wilmersdorf;4051653;Prager Platz
+4;Charlottenburg-Wilmersdorf;405;CW 5;40516;Volkspark Wilmersdorf;4051654;Wilhelmsaue
+4;Charlottenburg-Wilmersdorf;405;CW 5;40516;Volkspark Wilmersdorf;4051655;Babelsberger Straße
+4;Charlottenburg-Wilmersdorf;405;CW 5;40516;Volkspark Wilmersdorf;4051656;Hildegardstraße
+4;Charlottenburg-Wilmersdorf;406;CW 6;40617;Forst Grunewald;4061757;Forst Grunewald
+5;Spandau;501;SPA 1;50101;Hakenfelde;5010101;Hakenfelde Nord
+5;Spandau;501;SPA 1;50101;Hakenfelde;5010102;Goltzstraße
+5;Spandau;501;SPA 1;50101;Hakenfelde;5010103;Amorbacher Weg
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010204;Griesingerstraße
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010205;An der Tränke
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010206;Gütersloher Weg
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010207;Darbystraße
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010208;Germersheimer Platz
+5;Spandau;501;SPA 1;50102;Falkenhagener Feld;5010209;An der Kappe
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010310;Eckschanze
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010311;Eiswerder
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010312;Kurstraße
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010313;Ackerstraße
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010314;Carl-Schurz-Straße
+5;Spandau;501;SPA 1;50103;Spandau Mitte;5010339;Freiheit
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020415;Isenburger Weg
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020416;Am Heideberg
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020417;Staakener Straße
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020418;Spandauer Straße
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020419;Magistratsweg
+5;Spandau;502;SPA 2;50204;Brunsbütteler Damm;5020420;Werkstraße
+5;Spandau;502;SPA 2;50205;Heerstraße Nord;5020521;Döberitzer Weg
+5;Spandau;502;SPA 2;50205;Heerstraße Nord;5020522;Pillnitzer Weg
+5;Spandau;502;SPA 2;50205;Heerstraße Nord;5020523;Maulbeerallee
+5;Spandau;502;SPA 2;50205;Heerstraße Nord;5020524;Weinmeisterhornweg
+5;Spandau;502;SPA 2;50206;Wilhelmstadt;5020625;Borkumer Straße
+5;Spandau;502;SPA 2;50206;Wilhelmstadt;5020626;Adamstraße
+5;Spandau;502;SPA 2;50206;Wilhelmstadt;5020627;Tiefwerder
+5;Spandau;502;SPA 2;50206;Wilhelmstadt;5020628;Graetschelsteig
+5;Spandau;502;SPA 2;50206;Wilhelmstadt;5020629;Börnicker Straße
+5;Spandau;503;SPA 3;50307;Haselhorst;5030730;Zitadellenweg
+5;Spandau;503;SPA 3;50307;Haselhorst;5030731;Gartenfelder Straße
+5;Spandau;503;SPA 3;50308;Siemensstadt;5030832;Rohrdamm
+5;Spandau;503;SPA 3;50308;Siemensstadt;5030833;Motardstraße
+5;Spandau;504;SPA 4;50409;Gatow/Kladow;5040934;Alt-Gatow
+5;Spandau;504;SPA 4;50409;Gatow/Kladow;5040935;Groß-Glienicker Weg
+5;Spandau;504;SPA 4;50409;Gatow/Kladow;5040936;Jägerallee
+5;Spandau;504;SPA 4;50409;Gatow/Kladow;5040937;Kladower Damm
+5;Spandau;504;SPA 4;50409;Gatow/Kladow;5040938;Kafkastraße
+6;Steglitz-Zehlendorf;601;Region A;60101;Schloßstraße;6010101;Fichtenberg
+6;Steglitz-Zehlendorf;601;Region A;60101;Schloßstraße;6010102;Schloßstraße
+6;Steglitz-Zehlendorf;601;Region A;60101;Schloßstraße;6010103;Markelstraße
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010204;Munsterdamm
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010205;Südende
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010206;Stadtpark
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010207;Mittelstraße
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010208;Bergstraße
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010209;Feuerbachstraße
+6;Steglitz-Zehlendorf;601;Region A;60102;Albrechtstraße;6010210;Bismarckstraße
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020301;Alt-Lankwitz
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020302;Komponistenviertel Lankwitz
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020303;Lankwitz Kirche
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020304;Kaiser-Wilhelm-Straße
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020305;Gemeindepark Lankwitz
+6;Steglitz-Zehlendorf;602;Region B;60203;Lankwitz;6020306;Lankwitz Süd
+6;Steglitz-Zehlendorf;602;Region B;60204;Ostpreußendamm;6020407;Thermometersiedlung
+6;Steglitz-Zehlendorf;602;Region B;60204;Ostpreußendamm;6020408;Lichterfelde Süd
+6;Steglitz-Zehlendorf;602;Region B;60204;Ostpreußendamm;6020409;Königsberger Straße
+6;Steglitz-Zehlendorf;602;Region B;60204;Ostpreußendamm;6020410;Oberhofer Platz
+6;Steglitz-Zehlendorf;602;Region B;60204;Ostpreußendamm;6020411;Schütte-Lanz-Straße
+6;Steglitz-Zehlendorf;603;Region C;60305;Teltower Damm;6030501;Berlepschstraße
+6;Steglitz-Zehlendorf;603;Region C;60305;Teltower Damm;6030502;Zehlendorf Süd
+6;Steglitz-Zehlendorf;603;Region C;60305;Teltower Damm;6030503;Zehlendorf Mitte
+6;Steglitz-Zehlendorf;603;Region C;60305;Teltower Damm;6030504;Teltower Damm
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030605;Botanischer Garten
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030606;Hindenburgdamm
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030607;Goerzwerke
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030608;Schweizer Viertel
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030609;Augustaplatz
+6;Steglitz-Zehlendorf;603;Region C;60306;Drakestraße;6030610;Lichterfelde West
+6;Steglitz-Zehlendorf;604;Region D;60407;Zehlendorf Südwest;6040701;Wannsee
+6;Steglitz-Zehlendorf;604;Region D;60407;Zehlendorf Südwest;6040702;Düppel
+6;Steglitz-Zehlendorf;604;Region D;60407;Zehlendorf Südwest;6040703;Nikolassee
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040804;Krumme Lanke
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040805;Fischerhüttenstraße
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040806;Fischtal
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040807;Zehlendorf Eiche
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040808;Hüttenweg
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040809;Thielallee
+6;Steglitz-Zehlendorf;604;Region D;60408;Zehlendorf Nord;6040810;Dahlem
+7;Tempelhof-Schöneberg;701;Schöneberg Nord;70101;Schöneberg Nord;7010101;Wittenbergplatz/Viktoria-Luise-Platz
+7;Tempelhof-Schöneberg;701;Schöneberg Nord;70101;Schöneberg Nord;7010102;Nollendorfplatz
+7;Tempelhof-Schöneberg;701;Schöneberg Nord;70101;Schöneberg Nord;7010103;Barbarossaplatz
+7;Tempelhof-Schöneberg;701;Schöneberg Nord;70101;Schöneberg Nord;7010104;Dennewitzplatz
+7;Tempelhof-Schöneberg;702;Schöneberg Süd;70202;Schöneberg Süd;7020201;Bayerischer Platz
+7;Tempelhof-Schöneberg;702;Schöneberg Süd;70202;Schöneberg Süd;7020202;Volkspark (Rudolf-Wilde-Park)
+7;Tempelhof-Schöneberg;702;Schöneberg Süd;70202;Schöneberg Süd;7020203;Kaiser-Wilhelm-Platz
+7;Tempelhof-Schöneberg;702;Schöneberg Süd;70202;Schöneberg Süd;7020204;Schöneberger Insel
+7;Tempelhof-Schöneberg;703;Friedenau;70303;Friedenau;7030301;Friedenau
+7;Tempelhof-Schöneberg;703;Friedenau;70303;Friedenau;7030302;Ceciliengärten
+7;Tempelhof-Schöneberg;703;Friedenau;70303;Friedenau;7030303;Grazer Platz
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040401;Neu-Tempelhof
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040402;Lindenhofsiedlung
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040403;Manteuffelstraße
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040404;Marienhöhe
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040405;Rathaus Tempelhof
+7;Tempelhof-Schöneberg;704;Tempelhof;70404;Tempelhof;7040406;Germaniagarten
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050501;Rathausstraße
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050502;Fritz-Werner-Straße
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050503;Eisenacher Straße
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050504;Imbrosweg
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050505;Hundsteinweg
+7;Tempelhof-Schöneberg;705;Mariendorf;70505;Mariendorf;7050506;Birnhornweg
+7;Tempelhof-Schöneberg;706;Marienfelde;70606;Marienfelde;7060601;Marienfelder Allee Nordwest
+7;Tempelhof-Schöneberg;706;Marienfelde;70606;Marienfelde;7060602;Kirchstraße
+7;Tempelhof-Schöneberg;706;Marienfelde;70606;Marienfelde;7060603;Marienfelde Nordost
+7;Tempelhof-Schöneberg;706;Marienfelde;70606;Marienfelde;7060604;Marienfelde Süd
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070701;Kettinger Straße/Schillerstraße
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070702;Alt-Lichtenrade/Töpchiner Weg
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070703;John-Locke-Straße
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070704;Nahariyastraße
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070705;Franziusweg/Rohrbachstraße
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070706;Horstwalder Straße/Paplitzer Straße
+7;Tempelhof-Schöneberg;707;Lichtenrade;70707;Lichtenrade;7070707;Wittelsbacherstraße
+8;Neukölln;801;Neukölln;80101;Schillerpromenade;8010115;Hasenheide
+8;Neukölln;801;Neukölln;80101;Schillerpromenade;8010116;Wissmannstraße
+8;Neukölln;801;Neukölln;80101;Schillerpromenade;8010117;Schillerpromenade
+8;Neukölln;801;Neukölln;80101;Schillerpromenade;8010118;Silbersteinstraße
+8;Neukölln;801;Neukölln;80102;Neuköllner Mitte/Zentrum;8010211;Flughafenstraße
+8;Neukölln;801;Neukölln;80102;Neuköllner Mitte/Zentrum;8010212;Rollberg
+8;Neukölln;801;Neukölln;80102;Neuköllner Mitte/Zentrum;8010213;Körnerpark
+8;Neukölln;801;Neukölln;80102;Neuköllner Mitte/Zentrum;8010214;Glasower Straße
+8;Neukölln;801;Neukölln;80103;Reuterstraße;8010301;Reuterkiez
+8;Neukölln;801;Neukölln;80103;Reuterstraße;8010302;Bouchéstraße
+8;Neukölln;801;Neukölln;80103;Reuterstraße;8010303;Donaustraße
+8;Neukölln;801;Neukölln;80104;Rixdorf;8010404;Rixdorf
+8;Neukölln;801;Neukölln;80104;Rixdorf;8010405;Hertzbergplatz
+8;Neukölln;801;Neukölln;80104;Rixdorf;8010406;Treptower Straße Nord
+8;Neukölln;801;Neukölln;80104;Rixdorf;8010407;Gewerbegebiet Ederstraße
+8;Neukölln;801;Neukölln;80105;Köllnische Heide;8010508;Weiße Siedlung
+8;Neukölln;801;Neukölln;80105;Köllnische Heide;8010509;Schulenburgpark
+8;Neukölln;801;Neukölln;80105;Köllnische Heide;8010510;Gewerbegebiet Köllnische Heide
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020619;Buschkrugallee Nord
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020620;Tempelhofer Weg
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020621;Mohriner Allee Nord
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020622;Parchimer Allee
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020623;Ortolanweg
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020624;Britzer Garten
+8;Neukölln;802;Britz/Buckow;80206;Britz;8020625;Handwerker-Siedlung
+8;Neukölln;802;Britz/Buckow;80207;Buckow;8020726;Buckow West
+8;Neukölln;802;Britz/Buckow;80207;Buckow;8020727;Buckow Mitte
+8;Neukölln;802;Britz/Buckow;80207;Buckow;8020728;Buckow Ost
+8;Neukölln;803;Gropiusstadt;80308;Gropiusstadt;8030829;Gropiusstadt Nord
+8;Neukölln;803;Gropiusstadt;80308;Gropiusstadt;8030830;Gropiusstadt Süd
+8;Neukölln;803;Gropiusstadt;80308;Gropiusstadt;8030831;Gropiusstadt Ost
+8;Neukölln;804;Buckow Nord/Rudow;80409;Buckow Nord;8040932;Goldhähnchenweg
+8;Neukölln;804;Buckow Nord/Rudow;80409;Buckow Nord;8040933;Vogelviertel Süd
+8;Neukölln;804;Buckow Nord/Rudow;80409;Buckow Nord;8040934;Vogelviertel Nord
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041035;Blumenviertel
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041036;Zittauer Straße
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041037;Alt-Rudow
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041038;Waßmannsdorfer Chaussee
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041039;Frauenviertel
+8;Neukölln;804;Buckow Nord/Rudow;80410;Rudow;8041040;Waltersdorfer Chaussee Ost
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90101;Alt-Treptow;9010101;Elsenstraße
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90101;Alt-Treptow;9010102;Am Treptower Park Nord
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90102;Plänterwald;9010201;Am Treptower Park Süd
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90102;Plänterwald;9010202;Köpenicker Landstraße
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90103;Baumschulenweg;9010301;Baumschulenstraße
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90103;Baumschulenweg;9010302;Späthsfelde
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90104;Johannisthal;9010401;Johannisthal West
+9;Treptow-Köpenick;901;Treptow-Köpenick 1;90104;Johannisthal;9010402;Johannisthal Ost
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90205;Oberschöneweide;9020501;Oberschöneweide West
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90205;Oberschöneweide;9020502;Oberschöneweide Ost
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90206;Niederschöneweide;9020601;Schnellerstraße
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90206;Niederschöneweide;9020602;Oberspree
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90207;Adlershof;9020701;Adlershof West
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90207;Adlershof;9020702;Adlershof Ost
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90208;Köllnische Vorstadt/Spindlersfeld;9020801;Spindlersfeld
+9;Treptow-Köpenick;902;Treptow-Köpenick 2;90208;Köllnische Vorstadt/Spindlersfeld;9020802;Köllnische Vorstadt
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90309;Altglienicke;9030901;Dorf Altglienicke
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90309;Altglienicke;9030902;Wohngebiet II
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90309;Altglienicke;9030903;Kölner Viertel
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90310;Bohnsdorf;9031001;Bohnsdorf
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90311;Grünau;9031101;Grünau
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90312;Schmöckwitz/Karolinenhof/Rauchfangswerder;9031201;Karolinenhof
+9;Treptow-Köpenick;903;Treptow-Köpenick 3;90312;Schmöckwitz/Karolinenhof/Rauchfangswerder;9031202;Schmöckwitz/Rauchfangswerder
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90413;Köpenick Süd;9041301;Kietzer Feld/Nachtheide
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90413;Köpenick Süd;9041302;Wendenschloß
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90414;Allende-Viertel;9041401;Allende I
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90414;Allende-Viertel;9041402;Allende II
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90415;Altstadt Kietz;9041501;Altstadt Kietz
+9;Treptow-Köpenick;904;Treptow-Köpenick 4;90416;Müggelheim;9041601;Müggelheim
+9;Treptow-Köpenick;905;Treptow-Köpenick 5;90517;Friedrichshagen;9051701;Hirschgarten
+9;Treptow-Köpenick;905;Treptow-Köpenick 5;90517;Friedrichshagen;9051702;Bölschestraße
+9;Treptow-Köpenick;905;Treptow-Köpenick 5;90518;Rahnsdorf/Hessenwinkel;9051801;Rahnsdorf/Hessenwinkel
+9;Treptow-Köpenick;905;Treptow-Köpenick 5;90519;Dammvorstadt;9051901;Dammvorstadt
+9;Treptow-Köpenick;905;Treptow-Köpenick 5;90520;Köpenick Nord;9052001;Köpenick Nord
+10;Marzahn-Hellersdorf;1001;Marzahn;100101;Marzahn Nord;10010101;Marzahn West
+10;Marzahn-Hellersdorf;1001;Marzahn;100101;Marzahn Nord;10010102;Havemannstraße
+10;Marzahn-Hellersdorf;1001;Marzahn;100102;Marzahn Mitte;10010203;Gewerbegebiet Bitterfelder Straße
+10;Marzahn-Hellersdorf;1001;Marzahn;100102;Marzahn Mitte;10010204;Wuhletalstraße
+10;Marzahn-Hellersdorf;1001;Marzahn;100102;Marzahn Mitte;10010205;Marzahn Ost
+10;Marzahn-Hellersdorf;1001;Marzahn;100102;Marzahn Mitte;10010206;Ringkolonnaden
+10;Marzahn-Hellersdorf;1001;Marzahn;100102;Marzahn Mitte;10010207;Marzahner Promenade
+10;Marzahn-Hellersdorf;1001;Marzahn;100103;Marzahn Süd;10010308;Marzahner Chaussee
+10;Marzahn-Hellersdorf;1001;Marzahn;100103;Marzahn Süd;10010309;Springpfuhl
+10;Marzahn-Hellersdorf;1001;Marzahn;100103;Marzahn Süd;10010310;Alt-Marzahn
+10;Marzahn-Hellersdorf;1001;Marzahn;100103;Marzahn Süd;10010311;Landsberger Tor
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100204;Hellersdorf Nord;10020412;Alte Hellersdorfer Straße
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100204;Hellersdorf Nord;10020413;Gut Hellersdorf
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100204;Hellersdorf Nord;10020414;Helle Mitte
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100204;Hellersdorf Nord;10020415;Hellersdorfer Promenade
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100204;Hellersdorf Nord;10020416;Böhlener Straße
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100205;Hellersdorf Ost;10020517;Adele-Sandrock-Straße
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100205;Hellersdorf Ost;10020518;Schleipfuhl
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100205;Hellersdorf Ost;10020519;Boulevard Kastanienallee
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100206;Hellersdorf Süd;10020620;Kaulsdorf Nord II
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100206;Hellersdorf Süd;10020621;Gelbes Viertel
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100206;Hellersdorf Süd;10020622;Kaulsdorf Nord I
+10;Marzahn-Hellersdorf;1002;Hellersdorf;100206;Hellersdorf Süd;10020623;Rotes Viertel
+10;Marzahn-Hellersdorf;1003;Biesdorf;100307;Biesdorf;10030724;Oberfeldstraße
+10;Marzahn-Hellersdorf;1003;Biesdorf;100307;Biesdorf;10030725;Buckower Ring
+10;Marzahn-Hellersdorf;1003;Biesdorf;100307;Biesdorf;10030726;Alt-Biesdorf
+10;Marzahn-Hellersdorf;1003;Biesdorf;100307;Biesdorf;10030727;Biesdorf Süd
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100408;Kaulsdorf;10040828;Kaulsdorf Nord
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100408;Kaulsdorf;10040829;Alt-Kaulsdorf
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100408;Kaulsdorf;10040830;Kaulsdorf Süd
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100409;Mahlsdorf;10040931;Mahlsdorf Nord
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100409;Mahlsdorf;10040932;Alt-Mahlsdorf
+10;Marzahn-Hellersdorf;1004;Kaulsdorf/Mahlsdorf;100409;Mahlsdorf;10040933;Mahlsdorf Süd
+11;Lichtenberg;1101;Hohenschönhausen Nord;110101;Malchow, Wartenberg und Falkenberg;11010101;Dorf Malchow
+11;Lichtenberg;1101;Hohenschönhausen Nord;110101;Malchow, Wartenberg und Falkenberg;11010102;Dorf Wartenberg
+11;Lichtenberg;1101;Hohenschönhausen Nord;110101;Malchow, Wartenberg und Falkenberg;11010103;Dorf Falkenberg
+11;Lichtenberg;1101;Hohenschönhausen Nord;110102;Neu-Hohenschönhausen Nord;11010204;Falkenberg Ost
+11;Lichtenberg;1101;Hohenschönhausen Nord;110102;Neu-Hohenschönhausen Nord;11010205;Falkenberg West
+11;Lichtenberg;1101;Hohenschönhausen Nord;110102;Neu-Hohenschönhausen Nord;11010206;Wartenberg Süd
+11;Lichtenberg;1101;Hohenschönhausen Nord;110102;Neu-Hohenschönhausen Nord;11010207;Wartenberg Nord
+11;Lichtenberg;1101;Hohenschönhausen Nord;110103;Neu-Hohenschönhausen Süd;11010308;Zingster Straße Ost
+11;Lichtenberg;1101;Hohenschönhausen Nord;110103;Neu-Hohenschönhausen Süd;11010309;Zingster Straße West
+11;Lichtenberg;1101;Hohenschönhausen Nord;110103;Neu-Hohenschönhausen Süd;11010310;Mühlengrund
+11;Lichtenberg;1102;Hohenschönhausen Süd;110204;Alt-Hohenschönhausen Nord;11020411;Malchower Weg
+11;Lichtenberg;1102;Hohenschönhausen Süd;110204;Alt-Hohenschönhausen Nord;11020412;Hauptstraße
+11;Lichtenberg;1102;Hohenschönhausen Süd;110205;Alt-Hohenschönhausen Süd;11020513;Orankesee
+11;Lichtenberg;1102;Hohenschönhausen Süd;110205;Alt-Hohenschönhausen Süd;11020514;Große-Leege-Straße
+11;Lichtenberg;1102;Hohenschönhausen Süd;110205;Alt-Hohenschönhausen Süd;11020515;Landsberger Allee
+11;Lichtenberg;1102;Hohenschönhausen Süd;110205;Alt-Hohenschönhausen Süd;11020516;Weiße Taube
+11;Lichtenberg;1103;Lichtenberg Nord;110306;Fennpfuhl;11030617;Hohenschönhausener Straße
+11;Lichtenberg;1103;Lichtenberg Nord;110306;Fennpfuhl;11030618;Fennpfuhl West
+11;Lichtenberg;1103;Lichtenberg Nord;110306;Fennpfuhl;11030619;Fennpfuhl Ost
+11;Lichtenberg;1103;Lichtenberg Nord;110307;Alt-Lichtenberg;11030720;Herzbergstraße
+11;Lichtenberg;1103;Lichtenberg Nord;110307;Alt-Lichtenberg;11030721;Rüdigerstraße
+11;Lichtenberg;1103;Lichtenberg Nord;110308;Frankfurter Allee Süd;11030824;Frankfurter Allee Süd
+11;Lichtenberg;1104;Lichtenberg Mitte;110409;Neu-Lichtenberg;11040925;Victoriastadt
+11;Lichtenberg;1104;Lichtenberg Mitte;110409;Neu-Lichtenberg;11040926;Weitlingstraße
+11;Lichtenberg;1104;Lichtenberg Mitte;110410;Friedrichsfelde Nord;11041022;Rosenfelder Ring
+11;Lichtenberg;1104;Lichtenberg Mitte;110410;Friedrichsfelde Nord;11041023;Gensinger Straße
+11;Lichtenberg;1104;Lichtenberg Mitte;110410;Friedrichsfelde Nord;11041027;Tierpark
+11;Lichtenberg;1104;Lichtenberg Mitte;110411;Friedrichsfelde Süd;11041128;Sewanstraße
+11;Lichtenberg;1105;Lichtenberg Süd;110512;Rummelsburger Bucht;11051229;Rummelsburg
+11;Lichtenberg;1105;Lichtenberg Süd;110513;Karlshorst;11051330;Karlshorst West
+11;Lichtenberg;1105;Lichtenberg Süd;110513;Karlshorst;11051331;Karlshorst Nord
+11;Lichtenberg;1105;Lichtenberg Süd;110513;Karlshorst;11051332;Karlshorst Süd
+12;Reinickendorf;1210;Reinickendorf Ost;121031;Ost 1;12103115;Breitkopfbecken
+12;Reinickendorf;1210;Reinickendorf Ost;121031;Ost 1;12103116;Hausotterplatz
+12;Reinickendorf;1210;Reinickendorf Ost;121031;Ost 1;12103117;Letteplatz
+12;Reinickendorf;1210;Reinickendorf Ost;121032;Ost 2;12103218;Teichstraße
+12;Reinickendorf;1210;Reinickendorf Ost;121032;Ost 2;12103219;Schäfersee
+12;Reinickendorf;1210;Reinickendorf Ost;121032;Ost 2;12103220;Humboldtstraße
+12;Reinickendorf;1221;Tegel;122141;West 1;12214125;Waldidyll/Flughafensee
+12;Reinickendorf;1221;Tegel;122141;West 1;12214126;Tegel Süd
+12;Reinickendorf;1221;Tegel;122144;West 4;12214421;Reinickes Hof
+12;Reinickendorf;1221;Tegel;122144;West 4;12214422;Klixstraße
+12;Reinickendorf;1221;Tegel;122144;West 4;12214423;Mellerbogen
+12;Reinickendorf;1221;Tegel;122144;West 4;12214424;Scharnweberstraße
+12;Reinickendorf;1221;Tegel;122145;West 5;12214527;Alt-Tegel
+12;Reinickendorf;1221;Tegel;122145;West 5;12214528;Tegeler Forst
+12;Reinickendorf;1222;Heiligensee/Konradshöhe;122242;West 2;12224229;Konradshöhe/Tegelort
+12;Reinickendorf;1222;Heiligensee/Konradshöhe;122242;West 2;12224230;Heiligensee
+12;Reinickendorf;1223;Frohnau/Hermsdorf;122311;Nord 1;12231101;Hermsdorf
+12;Reinickendorf;1223;Frohnau/Hermsdorf;122311;Nord 1;12231102;Frohnau
+12;Reinickendorf;1230;Waidmannslust;123012;Nord 2;12301203;Wittenau Süd
+12;Reinickendorf;1230;Waidmannslust;123012;Nord 2;12301204;Wittenau Nord
+12;Reinickendorf;1230;Waidmannslust;123012;Nord 2;12301205;Waidmannslust
+12;Reinickendorf;1230;Waidmannslust;123012;Nord 2;12301206;Lübars
+12;Reinickendorf;1230;Waidmannslust;123021;MV 1;12302107;Schorfheidestraße
+12;Reinickendorf;1230;Waidmannslust;123021;MV 1;12302108;Märkisches Zentrum
+12;Reinickendorf;1230;Waidmannslust;123021;MV 1;12302109;Treuenbrietzener Straße
+12;Reinickendorf;1230;Waidmannslust;123021;MV 1;12302110;Dannenwalder Weg
+12;Reinickendorf;1230;Waidmannslust;123022;MV 2;12302211;Lübarser Straße
+12;Reinickendorf;1230;Waidmannslust;123022;MV 2;12302212;Rollbergesiedlung
+12;Reinickendorf;1230;Waidmannslust;123043;West 3;12304313;Borsigwalde
+12;Reinickendorf;1230;Waidmannslust;123043;West 3;12304314;Ziekowstraße/Freie Scholle

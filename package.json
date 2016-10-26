@@ -1,0 +1,23 @@
+{
+  "name": "imkietz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mapbox-gl-draw-styles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-loader": "^0.5.4",
+    "transform-loader": "^0.2.3",
+    "webpack": "^1.13.2",
+    "webworkify-webpack": "^1.1.7"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.25.1"
+  }
+}
